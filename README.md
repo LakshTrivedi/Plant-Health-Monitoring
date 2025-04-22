@@ -1,54 +1,31 @@
-# 🌿 Plant Health Monitoring
+# 🌿 Plant Health Monitoring System
 
-A machine learning-based system designed to assess plant health by analyzing key environmental parameters. This project aims to assist farmers and gardeners in early detection of plant stress, enabling timely interventions for optimal crop management.
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![Issues](https://img.shields.io/github/issues/LakshTrivedi/Plant-Health-Monitoring)](https://github.com/LakshTrivedi/Plant-Health-Monitoring/issues)
+[![Forks](https://img.shields.io/github/forks/LakshTrivedi/Plant-Health-Monitoring)](https://github.com/LakshTrivedi/Plant-Health-Monitoring/network/members)
+[![Stars](https://img.shields.io/github/stars/LakshTrivedi/Plant-Health-Monitoring)](https://github.com/LakshTrivedi/Plant-Health-Monitoring/stargazers)
 
-## 📋 Table of Contents
+A smart machine learning-powered application that predicts the health of plants based on key environmental and physiological parameters. It provides real-time insights to help farmers and researchers monitor and optimize plant health, prevent stress, and enhance crop productivity.
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+---
 
-## ✅ Features
+## 🧠 How It Works
 
-- Analyzes vital plant parameters such as:
-  - Chlorophyll content
-  - Nitrogen levels
-  - Potassium levels
-  - Humidity
-  - Soil moisture
-  - Electrochemical properties
-- Classifies plant health into three categories:
-  - Healthy
-  - Moderate Stress
-  - Stressed
-- Provides a user-friendly interface for inputting plant parameters.
-- Utilizes a machine learning model for accurate health prediction.
-- Offers data visualization tools for insightful analysis.
+1. Collects environmental and soil data (e.g., nitrogen, potassium, humidity, chlorophyll).
+2. Applies a trained machine learning model to classify the plant health as:
+   - Healthy 🌱
+   - Moderate Stress 🌾
+   - Stressed 🥀
+3. Displays predictions in a simple web interface built with Flask.
 
-## 🛠️ Technologies Used
+---
 
-- Python
-- Flask (for web interface)
-- TensorFlow/Keras (for machine learning models)
-- Pandas & NumPy (for data processing)
-- Matplotlib & Seaborn (for data visualization)
+## 🏗️ System Architecture
 
-## 🚀 Installation
-
-### Prerequisites
-
-Ensure you have the following installed on your system:
-
-- Python 3.x
-- pip
-- Virtual environment tool (optional but recommended)
-
-### Steps
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/LakshTrivedi/Plant-Health-Monitoring.git
-   cd Plant-Health-Monitoring
+```mermaid
+graph TD;
+    User -->|Input Parameters| WebApp[Flask Web Interface]
+    WebApp -->|Send Data| Model[Trained ML Model]
+    Model -->|Health Status| WebApp
+    WebApp -->|Display Results| User
