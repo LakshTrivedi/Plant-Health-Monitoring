@@ -133,16 +133,12 @@ The app uses a pre-trained TensorFlow model for plant disease classification. Yo
 
 | Name           | Enrollment Number      | Role                 |
 |----------------|------------------------|-----------------------|
-| Laksh Trivedi  | `KU2407U420`           | Project Lead & Developer |
-| Namra Patel    | `KU2407U426`           | Backend Developer        |
 | Mehul Labana   | `KU2407U419`           | ML Model Trainer          |
-
+| Laksh Trivedi  | `KU2407U420`           | Project Lead & Developer |
+| Namra Patel    | `KU2407U428`           | Backend Developer        |
 ---
 
 ## 🤝 Connect With US
-Namra Patel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NamraPatel21)&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namra-patel-8a5a3b329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 Mehul Labana&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PHOENIX24M)&nbsp;&nbsp;&nbsp;
@@ -151,3 +147,7 @@ Mehul Labana&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Laksh Trivedi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LakshTrivedi)&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laksh-trivedi-87a6a6327/)
+
+Namra Patel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NamraPatel21)&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namra-patel-8a5a3b329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
