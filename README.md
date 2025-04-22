@@ -133,9 +133,9 @@ The app uses a pre-trained TensorFlow model for plant disease classification. Yo
 
 | Name           | Enrollment Number      | Role                 |
 |----------------|------------------------|-----------------------|
-| Mehul Labana   | `KU2407U419`           | ML Model Trainer          |
+| Mehul Labana   | `KU2407U419`           | Project Assistant        |
 | Laksh Trivedi  | `KU2407U420`           | Project Lead & Developer |
-| Namra Patel    | `KU2407U428`           | Backend Developer        |
+| Namra Patel    | `KU2407U428`           | ML Model Trainer        |
 ---
 
 ## 🤝 Connect With US
