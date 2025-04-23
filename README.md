@@ -15,7 +15,6 @@ A deep learning-powered app to monitor plant health and classify leaf diseases u
 - 🌿 Upload and classify plant leaf images
 - 🤖 CNN-based disease prediction with TensorFlow
 - 🎨 Dark-mode UI with custom styling (CSS-in-Streamlit)
-- 📊 Extendable for live sensor data and environmental metrics
 
 ---
 
@@ -131,11 +130,11 @@ The app uses a pre-trained TensorFlow model for plant disease classification. Yo
 
 ## 🧑‍💻 Collaborators
 
-| Name           | Enrollment Number      | Role                 |
+| Name           | KU ID / Enrollment Number      | Role                 |
 |----------------|------------------------|-----------------------|
-| Mehul Labana   | `KU2407U419`           | Project Assistant        |
-| Laksh Trivedi  | `KU2407U420`           | Project Lead & Developer |
-| Namra Patel    | `KU2407U428`           | ML Model Trainer        |
+| Mehul Labana   | `KU2407U419` `202407020398`          | Project Assistant        |
+| Laksh Trivedi  | `KU2407U420`   `202407020399`        | Project Lead & Developer |
+| Namra Patel    | `KU2407U428`     `202407020407`      | ML Model Trainer        |
 ---
 
 ## 🤝 Connect With US
