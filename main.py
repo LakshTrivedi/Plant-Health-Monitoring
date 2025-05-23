@@ -13,8 +13,8 @@ os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
 # ---------------------
 # Setup
 # ---------------------
-API_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBqZmJ4d2t0dXVtbGxyZ2hwdmRhIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0NDM1NjE4MiwiZXhwIjoyMDU5OTMyMTgyfQ.9L6FvDE7uMrBAlEE3vr8XNXeI5uE223La3F868-oaDs'
-API_URL = 'https://pjfbxwktuumllrghpvda.supabase.co'
+API_KEY = 
+API_URL = 
 supabase = create_client(API_URL, API_KEY)
 
 st.set_page_config(page_title="Plant Health Monitoring", layout='wide')
